@@ -5736,8 +5736,8 @@ function RoClothes(Player)
 				7863333749,
 			        7675263201
 	                  }
-		   },
-                   ["Noob"] = {
+		},
+                ["Noob"] = {
 	                ["Body Color"] = {
 		                ["HeadColor3"] = Color3.fromRGB(244,204,67),
 		                ["LeftArmColor3"] = Color3.fromRGB(244,204,67),
@@ -5751,8 +5751,8 @@ function RoClothes(Player)
 		                7214725742,
 		                9008202379
 	             }
-              },
-              ["DemonGirl"] = {
+                },
+                ["DemonGirl"] = {
 	                ["Body Color"] = {
 		                ["HeadColor3"] = Color3.fromRGB(163, 75, 75),
 		                ["LeftArmColor3"] = Color3.fromRGB(163, 75, 75),
@@ -5786,9 +5786,8 @@ function RoClothes(Player)
 		                6602071898,
 		                7037687329
 	              }
-               },
-
-               ["ConeGirl"] = {
+                },
+                ["ConeGirl"] = {
 	                ["Body Color"] = {
 		                ["HeadColor3"] = Color3.fromRGB(248, 248, 248),
 		                ["LeftArmColor3"] = Color3.fromRGB(248, 248, 248),
