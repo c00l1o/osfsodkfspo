@@ -5735,7 +5735,7 @@ function RoClothes(Player)
 				7392396295,
 				7863333749,
 			        7675263201
-	                  }
+	                }
 		},
                 ["Noob"] = {
 	                ["Body Color"] = {
@@ -5750,7 +5750,7 @@ function RoClothes(Player)
 		                7175904988,
 		                7214725742,
 		                9008202379
-	             }
+	                }
                 },
                 ["DemonGirl"] = {
 	                ["Body Color"] = {
@@ -5785,7 +5785,7 @@ function RoClothes(Player)
 		                5693879776,
 		                6602071898,
 		                7037687329
-	              }
+	                }
                 },
                 ["ConeGirl"] = {
 	                ["Body Color"] = {
