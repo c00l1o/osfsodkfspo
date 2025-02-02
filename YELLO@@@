@@ -387,7 +387,7 @@ function RoClothes(Player)
 
 	function Function.PlayerDataDefault()
 		return {
-			CurrentClothes = {""},
+			CurrentClothes = {"Roblox Clothes"},
 			CurrentBundle = "nil",
 			AutoExecute = true,
 			DelayTime = 0,
@@ -398,7 +398,7 @@ function RoClothes(Player)
 			AccessorySizeLock = false,
 			MeshBasePartInvisible = false,
 			BodyPartPhysics = true,
-			CatalogUsername = "",
+			CatalogUsername = "ririnjago",
 			CatalogOutfitId = "",
 			CatalogClothes = {
 				Shirt = "",
